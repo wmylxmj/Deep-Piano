@@ -1,1 +1,1 @@
-### weights saved
+### Weights saved, h5 files.
