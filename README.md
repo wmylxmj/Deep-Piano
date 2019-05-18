@@ -1,2 +1,2 @@
 # Deep-Piano
-Play the piano with deep learning
+Play The Piano With Deep Learning
