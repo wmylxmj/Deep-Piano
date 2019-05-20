@@ -53,7 +53,7 @@ def DeepPianoModel(step=512, ndim=88):
     X = ResidualDenseBlock(X, 512, 1024, 512, 64, 8, strides=2)
     X = AveragePooling1D(pool_size=2)(X)
     X = Flatten()(X)
-    X = Dropout(0.5)(X)
+    X = Dropout(0.2)(X)
     X = Dense(ndim, activation='sigmoid')(X)
     model = Model(X_in, X)
     return model
