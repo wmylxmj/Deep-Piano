@@ -20,7 +20,7 @@
 </div>
 
 - the model predicts the state of 88 keys in 1/64 time at a time
-- the model generation process is shown in the following figure
+- so the generation process is shown in the following figure
 
 <div align="center">
   <img src="images/Conv1D.png" height="400" width="600" >
