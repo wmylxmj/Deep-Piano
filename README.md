@@ -8,6 +8,10 @@ Play The Piano With Deep Learning
   <img src="images/count.png" height="320" width="400" >
 </div>
 
+### creat the model
+- The model uses deep one-dimensional residual dense convolution network to extract time series characteristics
+![](images/RDB.png)
+
 ### train the model
 - run train.py
 
