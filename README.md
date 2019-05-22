@@ -32,4 +32,4 @@
 
 ### generate piano melody
 - run predict.py
-- give the model a short melody, which will produce a melody of similar style.
+- give the model a short melody, which will produce a melody of similar style
