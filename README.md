@@ -7,3 +7,9 @@ Play The Piano With Deep Learning
   <img src="images/sequence.png" height="320" width="400" >
   <img src="images/count.png" height="320" width="400" >
 </div>
+
+### train the model
+- run train.py
+
+### generate piano melody
+- run predict.py
