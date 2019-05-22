@@ -1,3 +1,4 @@
 # Deep-Piano
 Play The Piano With Deep Learning
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="outputs/demo_1.mid"></iframe>
+<iframe name="music" src="outputs/demo_1.mid" marginwidth="1px" marginheight="20px" width=100% height="80px" frameborder=1 　scrolling="yes">
+</iframe>
