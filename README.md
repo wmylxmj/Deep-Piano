@@ -11,7 +11,7 @@ Play The Piano With Deep Learning
 ### creat the model
 - the model uses deep one-dimensional residual dense convolution network to extract time series characteristics
 <div align="center">
-  <img src="images/RDB.png" height="600" width="800" >
+  <img src="images/RDB.png" height="400" width="600" >
 </div>
 
 ### train the model
