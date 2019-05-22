@@ -19,6 +19,7 @@
   <img src="images/RDB.png" height="400" width="600" >
 </div>
 
+- the model predicts the state of 88 keys in 1/64 time at a time
 - the model generation process is shown in the following figure
 
 <div align="center">
