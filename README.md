@@ -1,5 +1,6 @@
 # Deep-Piano
-Play The Piano With Deep Learning
+#### Play The Piano With Deep Learning
+[demo here](https://github.com/wmylxmj/Deep-Piano/edit/master/outputs/)
 ### prepare your dataset
 - collect some midi files and put them in the midi folder
 - run prepare.py, we will count the frequency at which notes are pressed
