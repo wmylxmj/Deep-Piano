@@ -28,6 +28,8 @@
 
 ### train the model
 - run train.py
+- in the case of small amount of data, it is recommended that the sequence length be set to 128
 
 ### generate piano melody
 - run predict.py
+- give the model a short melody, which will produce a melody of similar style.
