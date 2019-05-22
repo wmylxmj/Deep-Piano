@@ -19,6 +19,12 @@
   <img src="images/RDB.png" height="400" width="600" >
 </div>
 
+- the model generation process is shown in the following figure
+
+<div align="center">
+  <img src="images/Conv1D.png" height="400" width="600" >
+</div>
+
 ### train the model
 - run train.py
 
